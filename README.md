@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=aqilspc&theme=<THEME_NAME>" />
+<img align="center" src="https://raw.githubusercontent.com/BinarCode/laravel-developer/master/static/Laravel_Developer.png" />
